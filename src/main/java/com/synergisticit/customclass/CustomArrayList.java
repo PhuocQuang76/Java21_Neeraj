@@ -1,4 +1,4 @@
-package com.synergisticit.arrayList;
+package com.synergisticit.customclass;
 
 import java.util.Arrays;
 
